@@ -32,4 +32,4 @@ See the [CONTRIBUTING.md](CONTRIBUTING.md) file for more details.
 Contributors
 ----------------------------
 
-* GKuChan —— 哈工大软件学院12级本科生，目前在天猫前端实习，负责天猫前端部分Node.js业务。
+* [GKuChan](https://github.com/GKuChan) —— 哈工大软件学院12级本科生，目前在天猫前端实习，负责天猫前端部分Node.js业务。
