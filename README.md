@@ -1,7 +1,7 @@
 Node-Talk（Node.js我要说）
 =============
 
-An open guide project for every newbie using Node.js.
+An open guide for using Node.js
 
 Node.js从环境搭建，到基础入门，再到设计实现的小教程，旨在帮助新手入门、帮助新手实现以Node为主力开发环境、提升Node在大学生圈内的学习氛围。
 
@@ -29,5 +29,10 @@ Node-Talk is an OPEN Open Source Project. This means that:
 >Individuals making significant and valuable contributions are given commit-access to the project to contribute as they see fit. This project is more like an open wiki than a standard guarded open source project.
 
 See the [CONTRIBUTING.md](CONTRIBUTING.md) file for more details.
+
+Contributors
+----------------------------
+
+* GKuChan —— 哈工大软件学院12级本科生，目前在天猫前端实习，负责天猫前端部分Node.js业务。
 
 ----------------
