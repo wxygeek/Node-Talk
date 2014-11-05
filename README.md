@@ -3,6 +3,8 @@ Node-Talk（Node.js我要说）
 
 An open guide for using Node.js
 
+（包教包会）
+
 Node.js从环境搭建，到基础入门，再到设计实现的小教程，旨在帮助新手入门、帮助新手实现以Node为主力开发环境、提升Node在大学生圈内的学习氛围。
 
 **同时，你可以在本项目中发布issue，提问任何有关Node的问题，我和其他热心的Node伙伴们，会为你解答。**
