@@ -18,8 +18,9 @@ Catalogue
 	2. [快速搭建Node开发环境(Win && Linux && OSX)](tutorials/1.2-begin-to-dev.md)
 	3. [Node代码规范](tutorials/1.3-style.md)
 	4. [从hello world看Node的运行](tutorials/1.4-hello-world.md)
-	5. 利用Node原生方法搭建WEB服务器
-	6. NPM
+	5. [利用Node原生方法搭建WEB服务器](tutorials/1.5-web-service.md)
+	6. modules和exports
+	6. package.json与NPM
 	7. callback hell
 	8. 别急于开发
 	9. 测试(mocha,supertest,should,mm,istanbul)
